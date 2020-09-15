@@ -27,8 +27,10 @@ body {
   width: 200px;
   height: 200px;
   background-color: green;
-  /* position: absolute;
-  top: 50px;
+  position: relative;
+  top: 200px;
+  left: 400px;
+  /*top: 50px;
   left: 50px; */
 }
 
@@ -37,8 +39,7 @@ body {
   height: 100px;
   background-color: blue;
   position: absolute;
-  top: 0;
-  left: 100%;
+  top: 100px;
 }
 /* .one {
 top: 100px;
